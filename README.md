@@ -25,3 +25,6 @@
 -Como usuario registrado, quiero recibir notificaciones cuando alguien interactúa con mis publicaciones o comentarios, para que pueda estar informado y responder en tiempo real.
 
 -Como usuario registrado, quiero tener la opción de configurar la visibilidad de mis publicaciones, para que pueda controlar quién puede ver mis contenidos.
+
+
+Comentario: hice esta pagina tambien en mi lab 2, donde creé una pagina extra llamada user stories por si era eso lo que se tenia que hacer en el laboratorio
